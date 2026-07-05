@@ -524,6 +524,7 @@ Once you can confidently make commits, switch branches, and merge them locally w
 Your next goal should be learning how to connect your local Git repository to **GitHub**. This will allow you to back up your code to the internet and collaborate with developers all over the world.
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devoc-official&label=Repository%20views&color=0065ff&style=for-the-badge" alt="devoc-official" /> </p>
 
 <div align="center">
   <br>
